@@ -1,4 +1,4 @@
-# TP3 - Sécurisation d’un système Linux
+# TP2 - Sécurisation d’un système Linux
 Leonardo Picoli - 13/04/2023
 
 ## **Introduction**
